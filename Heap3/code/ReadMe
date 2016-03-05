@@ -1,0 +1,13 @@
+Team members:
+Y Madhavi	- cs09b025
+D Vamsi Krishna	- cs09b006
+M Uday Chowhan	- cs09b034	
+
+ Files included:
+ -bheap.cpp
+ -bheap.h
+ -makefile
+
+ command:
+ 1st command : make
+ 2nd command : ./main 1/2 inputfile1 inputfile2

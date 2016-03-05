@@ -1,0 +1,32 @@
+Here input_1 and input_2 are the input files which can be given by the user.
+
+
+g++ -o a heap.cpp
+./a 1/2 i1 i2
+
+The result will be stored in outputfile and sorted file as asked for.
+
+Also,
+        we used a rand.cpp function to feed random values as inputs
+        commands:
+        1--g++ -o a rand,cpp
+        2--./a
+        3--g++ -o a heap.cpp
+        4--./a 1/2 i1 i2
+
+        After 2-- it asks for the sizes of input1 and input2 , number of extract and insert operations. 
+
+
+
+
+
+Regarding the graphs
+
+The information about plotting points is included in the report
+5 graphs are attached in the folder graphs
+
+1) extract_min_compare.png      : This graph compares the time taken by heap and a leftist heap to extract elements
+2) insert_compare.png           : This graph compares the time taken by heap and a leftist heap to insert elements
+3) meld_compare.png             : This graph compares the time taken by heap and a leftist heap to meld heaps
+4) meld_heap.png                : This graph compares the time taken by heap to meld heaps
+5) meld_lheap.png               : This graph compares the time taken by leftist heap meld heaps

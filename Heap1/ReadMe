@@ -1,0 +1,17 @@
+Here input_1 and input_2 are the input files which can be given by the user.
+
+
+g++ -o a heap.cpp
+./a 1/2 input_1 input_2
+
+The result will be stored in outputfile and sorted file as asked for.
+
+Also,
+we used a rand.cpp function to feed random values as inputs
+commands:
+1--g++ -o a rand,cpp
+2--./a
+3--g++ -o a heap.cpp
+4--./a 1/2 input_1 input_2
+
+After 2-- it asks for the sizes of input1 and input2 , number of extract and insert operations. 
